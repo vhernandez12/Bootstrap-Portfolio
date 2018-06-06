@@ -1,0 +1,27 @@
+
+.navbar{
+    background-color:red;
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+ 
+}
+.jumbotron {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: whitesmoke;
+    width: 100%;
+    padding: 100px 25px;
+
+}
+#jumboBkgd {
+    background-color: red;
+}
+#sumbitBtn {
+    background-color: red;
+    outline-color: red;
+}
+
+footer{
+    background-color: red;
+    color:whitesmoke;
+}
