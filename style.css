@@ -1,35 +1,26 @@
 
 .navbar{
-    background-color:red;
+    background-color:rgb(17, 160, 179);
     color: whitesmoke;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
  
 }
-#jumbotron {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-weight: bold;
-    color: whitesmoke;
-    width: 100%;
-    padding: 100px 25px;
-    background: red;
-
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
 }
-#jumboBkgd {
-    background-color: red;
-}
-#sumbitBtn {
-    background-color: red;
-    outline-color: red;
-}
-#socialBtns {
-    background-color: none;
-}
-.list-unstyled{
+.bg-1 {
+    background-color: rgb(75, 75, 102);
     color: whitesmoke;
 }
-footer{
-    background-color: red;
+.footer{
+    background-color: rgb(13, 13, 14);
     color:whitesmoke;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
 }
 
 // Small devices (landscape phones, 576px and up)
